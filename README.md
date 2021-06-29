@@ -1,7 +1,7 @@
 # Neuromatch2021
 Repository for the Computational Neuroscience course conducted by Neuromatch Academy in July 2021.
 
-### [The links mentioned here are those which helped me learn or I worked upon. If the authors of these links want them to be taken down, they can contact me.]
+### {The links mentioned here are those which helped me learn or I worked upon. If the authors of these links want them to be taken down, they can contact me.}
 
 # Timeline
 1. [Fulfilling the prerequisites](#prerequisites): June 1-June 27
