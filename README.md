@@ -4,7 +4,8 @@ Repository for the Computational Neuroscience course conducted by Neuromatch Aca
 ### {The links mentioned here are those which helped me learn or I worked upon. If the authors of these links want them to be taken down, they can contact me.}
 
 # Timeline
-1. [Fulfilling the prerequisites](#prerequisites): June 1-June 27
+1. [Fulfilling the prerequisites](#prerequisites): June 1-June 29
+2. [Week 0](#week-0-:-refreshers): 
 
 # Prerequisites
 1. [Quick Revision](https://swcarpentry.github.io/python-novice-inflammation/) of Python 3 and its utilities (Numpy, Matplotlib) :hourglass_flowing_sand:
@@ -14,3 +15,5 @@ Repository for the Computational Neuroscience course conducted by Neuromatch Aca
 5. [Essential Linear Algebra concepts](https://www.deeplearningbook.org/contents/linear_algebra.html) :hourglass_flowing_sand:
 6. [Revisiting Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) :hourglass_flowing_sand:
 7. [Revisiting Differential Equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) :hourglass_flowing_sand:
+
+# Week 0: Refreshers
