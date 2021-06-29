@@ -5,7 +5,7 @@ Repository for the Computational Neuroscience course conducted by Neuromatch Aca
 
 # Timeline
 1. [Fulfilling the prerequisites](#prerequisites): June 1-June 29
-2. [Week 0](#week-0-:-refreshers): 
+2. [Week 0](#week-0:-refreshers): 
 
 # Prerequisites
 1. [Quick Revision](https://swcarpentry.github.io/python-novice-inflammation/) of Python 3 and its utilities (Numpy, Matplotlib) :hourglass_flowing_sand:
