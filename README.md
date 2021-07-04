@@ -25,6 +25,15 @@ Repository for the Computational Neuroscience course conducted by Neuromatch Aca
 ### DAY 3: Linear Algebra
 
 ### DAY 4: Calculus
-1. [Tutorial 1](https://colab.research.google.com/drive/1-o9O8oIjF8Jf-itafpmToDyk1xybamBE?usp=sharing)
+A- [Tutorial 1](https://colab.research.google.com/drive/1-o9O8oIjF8Jf-itafpmToDyk1xybamBE?usp=sharing)
+B- [Tutorial 2]
+C- [Tutorial 3]
 
 ### DAY 5: Statistics
+
+# Week 1
+
+### DAY 1: Model Types
+A- [Tutorial 1]
+B- [Tutorial 2]
+C- [Tutorial 3]
