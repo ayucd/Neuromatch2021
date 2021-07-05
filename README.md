@@ -34,6 +34,6 @@ Repository for the Computational Neuroscience course conducted by Neuromatch Aca
 # Week 1
 
 ### DAY 1: Model Types
-* [Tutorial 1]
-* [Tutorial 2]
-* [Tutorial 3]
+* [Tutorial 1](https://colab.research.google.com/drive/1e6D2eak79DAhY6oKWioIRqMuRveiJ2bt?usp=sharing)
+* [Tutorial 2](https://colab.research.google.com/drive/1-UhY-9xgKV8RMYoLRb7vzMHBK8YuJfoS?usp=sharing)
+* [Tutorial 3](https://colab.research.google.com/drive/1ClQuMqp_7YzAwVT0ewtynIEsgQDOCYS1?usp=sharing)
