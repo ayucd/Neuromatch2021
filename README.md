@@ -11,7 +11,7 @@ Repository for the Computational Neuroscience course conducted by Neuromatch Aca
 
 **Scientific Question:** We wanted to answer the following questions:
 * Are these 3 regions functionally connected to each other?
-* How does their activity differ in a decision-making task (like gambling) from the resting-state?
+* How do their activities differ in a decision-making task (like gambling) from the resting-state?
 
 **Presumption:** The participants in the dataset are healthy, neurotypical individuals with no form of addiction towards gambling.
 
