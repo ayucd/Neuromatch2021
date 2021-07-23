@@ -10,8 +10,8 @@ Repository for the Computational Neuroscience course conducted by Neuromatch Aca
 **Regions of interest:** The orbitofrontal cortex (OFC), the prefrontal cortex (PFC) and the hippocampus.
 
 **Scientific Question:** We wanted to answer the following questions:
-Are these 3 regions functionally connected to each other?
-How does their activity differ in a decision-making task (like gambling) from the resting-state?
+* Are these 3 regions functionally connected to each other?
+* How does their activity differ in a decision-making task (like gambling) from the resting-state?
 
 **Presumption:** The participants in the dataset are healthy, neurotypical individuals with no form of addiction towards gambling.
 
