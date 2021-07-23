@@ -3,6 +3,8 @@ Repository for the Computational Neuroscience course conducted by Neuromatch Aca
 
 ## Project Overview
 
+**PROJECT TITLE:** **_Analysing parcel activation in decision-making tasks versus the resting state_**
+
 **Background:** Gambling involves rigorous decision-making and related behaviours (risk-assessment, stress etc). Decision-making is a complex cognitive process that involves the simultaneous orchestration of multiple neural systems. 
 
 **Regions of interest:** The orbitofrontal cortex (OFC), the prefrontal cortex (PFC) and the hippocampus.
