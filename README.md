@@ -18,3 +18,5 @@ Repository for the Computational Neuroscience course conducted by Neuromatch Aca
 **Presumption:** The participants in the dataset are healthy, neurotypical individuals with no form of addiction towards gambling.
 
 **Dataset:** HCP-2020 (fMRI)
+
+![]
