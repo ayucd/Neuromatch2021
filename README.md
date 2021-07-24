@@ -19,4 +19,4 @@ Repository for the Computational Neuroscience course conducted by Neuromatch Aca
 
 **Dataset:** HCP-2020 (fMRI)
 
-![]
+![Project Slides](https://github.com/ayucd/Neuromatch2021/blob/main/Project_Slides_NMA_EnergeticIguanas.pdf)
