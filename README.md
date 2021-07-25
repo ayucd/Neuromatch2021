@@ -1,4 +1,4 @@
-# Neuromatch2021
+# Neuromatch 2021: Computational Neuroscience
 Repository for the Computational Neuroscience course conducted by Neuromatch Academy in July 2021.
 
 # Project Overview
