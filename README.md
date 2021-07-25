@@ -23,4 +23,4 @@ Repository for the Computational Neuroscience course conducted by Neuromatch Aca
 
 **Project Slides:** [Energetic Iguanas](https://github.com/ayucd/Neuromatch2021/blob/main/Project_Slides_NMA_EnergeticIguanas.pdf)
 
-**Colab Notebook:** [Energetic Iguanas]()
+**Colab Notebook:** [Energetic Iguanas](https://colab.research.google.com/drive/1uf5gfggh7Ulq1pnk4XrNChMxEGpOwgwW?usp=sharing)
