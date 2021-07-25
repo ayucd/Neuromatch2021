@@ -5,6 +5,8 @@ Repository for the Computational Neuroscience course conducted by Neuromatch Aca
 
 **PROJECT TITLE:** **_Analysing parcel activation in decision-making tasks versus the resting state_**
 
+**Team:** Energetic Iguanas
+
 **Mentor:** Dr. Balazs Ujfalussy
 
 **Background:** Gambling involves rigorous decision-making and related behaviours (risk-assessment, stress etc). Decision-making is a complex cognitive process that involves the simultaneous orchestration of multiple neural systems. Through this project, we are trying to analyse the activities of decision-making brain regions and decide some conclusions on them.
@@ -20,3 +22,5 @@ Repository for the Computational Neuroscience course conducted by Neuromatch Aca
 **Dataset:** HCP-2020 (fMRI)
 
 **Project Slides:** [Energetic Iguanas](https://github.com/ayucd/Neuromatch2021/blob/main/Project_Slides_NMA_EnergeticIguanas.pdf)
+
+**Colab Notebook:** [Energetic Iguanas]()
